@@ -1,0 +1,24 @@
+Page Header
+If User is an admin
+  There will be a option to add a new user manually and a checkbox for hiding disabled users in the database
+Else
+  Header will be empty
+  Sign Up Page
+  Signup Form
+    Header
+      New User<Color Slightly darker from the box beneath background>
+    Six Downwards Labels(Username/DisplayName/Phone/E-mail/User Roles/Enabled)
+    First Four Have a Textbox next to them
+    If person on the sign up form is an admin
+      Fifth is a three option dropdown list to choose user type
+    Else
+      There is no fifth label. The User is a guest.
+    Sixth is a Checkbox for users signing validation
+    If User is an admin
+       On the left side of the page will be a 4 column database(ID/USERNAME/EMAIL/ENABLED)
+    Else
+      There will only be the sign up form
+
+     
+  
+  
